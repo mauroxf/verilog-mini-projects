@@ -1,4 +1,4 @@
-### Problem Statement
+## Problem Statement
 Design a 32-bit Arithmetic Logic Unit (ALU) in Verilog.
 
 ### Operations
@@ -22,3 +22,12 @@ Design a 32-bit Arithmetic Logic Unit (ALU) in Verilog.
 
 ### Output
 - `result` (32-bit)
+
+---
+## Bash Commands
+
+To compile and run using Icarus Verilog:
+
+```bash
+iverilog -o alu_tb alu.v alu_tb.v
+vvp alu_tb
