@@ -1,2 +1,2 @@
 # verilog-mini-projects
-AI generated problems that I solved
+AI generated Verilog problems that I solved
