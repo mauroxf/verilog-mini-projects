@@ -20,7 +20,7 @@ Implement a 4-to-1 multiplexer using a 2-bit select line.
 
 ---
 
-### Bash Commands
+## Bash Commands
 
 To compile and run using Icarus Verilog:
 
