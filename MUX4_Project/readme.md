@@ -17,3 +17,13 @@ Implement a 4-to-1 multiplexer using a 2-bit select line.
 
 ### Output
 - `out` (32-bit)
+
+---
+
+### Bash Commands
+
+To compile and run using Icarus Verilog:
+
+```bash
+iverilog -o mux4_tb mux4.v mux4_tb.v
+vvp mux4_tb
