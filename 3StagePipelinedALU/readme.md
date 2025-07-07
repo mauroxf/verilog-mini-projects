@@ -1,4 +1,4 @@
-### Problem Statement
+## Problem Statement
 Design a 4-bit Arithmetic Logic Unit (ALU) in Verilog with basic arithmetic and logic operations, implemented using a 3-stage pipeline architecture.
 
 ### Pipeline Stages
