@@ -21,3 +21,11 @@ Design a traffic light controller FSM that:
 | `S2` (01)     | `S0`       | `YELLOW`     |
 | Default       | `S0`       | `RED`        |
 
+---
+
+## Bash Commands
+
+To compile and run using Icarus Verilog:
+```bash
+iverilog -o fsm_test fsm.v fsm_tb.v
+vvp fsm_test
