@@ -19,7 +19,7 @@ Each mini project includes:
 
 - `*.v` — Verilog source files  
 - `*_tb.v` — Testbench files  
-- `problem.md` — AI generated problem statement and bash for compiling/sim
+- `problem.md` — Problem statement and bash for compiling/sim
 - `results` - Folder that includes images and a final report
 
 ---
