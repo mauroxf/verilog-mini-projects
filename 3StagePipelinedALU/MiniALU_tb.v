@@ -47,6 +47,8 @@ module MiniALU_tb;
     initial begin
         $monitor("Time=%0t | a=%d b=%d ctrl=%b => z=%b zero=%b",
                  $time, a, b, ctrl, z, zero);
+        $dumpfile("wave.vcd"); // For wave view
+        $dumpvars(0, MiniALU_tb);
     end
 
 endmodule
