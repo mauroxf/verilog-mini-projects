@@ -21,6 +21,8 @@ module fsm_tb;
   initial begin
     $display("Time\tState (light)"); // Initial display
     $monitor("%0t\t%b", $time, light);
+    $dumpfile("wave.vcd"); // For wave view
+    $dumpvars(0, fsm_tb);
   end
 
   // Run the simulation
