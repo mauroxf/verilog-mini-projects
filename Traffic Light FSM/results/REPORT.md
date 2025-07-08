@@ -1,4 +1,4 @@
-## Moore FSM: Traffic Light Controller
+## REPORT
 
 This mini project implements a simple **Moore finite state machine (FSM)** in Verilog to simulate a basic traffic light controller. The design transitions through three states (RED, GREEN, YELLOW) purely based on a clock signal, with no external inputs aside from the clock.
 
