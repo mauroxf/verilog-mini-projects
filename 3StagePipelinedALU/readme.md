@@ -27,7 +27,7 @@ Design a 4-bit Arithmetic Logic Unit (ALU) in Verilog with basic arithmetic and 
 - `z` (4-bit result)
 - `zero` (1-bit flag set if result is `0000`)
 
-### Bash Commands
+## Bash Commands
 
 To compile and run using Icarus Verilog:
 ```bash
