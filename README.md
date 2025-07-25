@@ -40,6 +40,6 @@ To build on this foundation, I plan to expand this repository with more advanced
 - **Project Scope Expansion**:  
   Creating larger, integrated digital systems such as pipelined CPUs, UART modules, or SoC components—alongside formal documentation and waveform validation.
 
-This repository is a live portfolio and a reflection of my progress toward becoming a skilled RTL and digital systems engineer.
+> This repository is a live portfolio and a reflection of my progress toward becoming a skilled RTL and digital systems engineer.
 
 
